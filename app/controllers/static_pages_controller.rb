@@ -8,7 +8,7 @@ class StaticPagesController < ApplicationController
   def help
   end
 
-  def contributors
+  def contact
   end
 
 end
